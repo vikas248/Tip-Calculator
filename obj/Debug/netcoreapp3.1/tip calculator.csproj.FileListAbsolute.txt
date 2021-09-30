@@ -1,0 +1,16 @@
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.exe
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.deps.json
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.runtimeconfig.json
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.runtimeconfig.dev.json
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.dll
+C:\Users\saumy\source\repos\tip calculator\bin\Debug\netcoreapp3.1\tip calculator.pdb
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.csproj.AssemblyReference.cache
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip_calculator.Form1.resources
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.csproj.GenerateResource.cache
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.AssemblyInfoInputs.cache
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.AssemblyInfo.cs
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.dll
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.pdb
+C:\Users\saumy\source\repos\tip calculator\obj\Debug\netcoreapp3.1\tip calculator.genruntimeconfig.cache
